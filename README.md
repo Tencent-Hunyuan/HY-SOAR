@@ -6,6 +6,7 @@
 
 <div align="center">
   <a href=https://arxiv.org/abs/2604.12617 target="_blank"><img src=https://img.shields.io/badge/Report-b5212f.svg?logo=arxiv height=22px></a>
+  <a href=https://github.com/Tencent-Hunyuan/HY-SOAR target="_blank"><img src=https://img.shields.io/badge/Code-2ecc71?logo=github&logoColor=black height=22px></a>
   <a href=https://hy-soar.github.io/ target="_blank"><img src=https://img.shields.io/badge/HY.SOAR-1abc9c?logo=homeassistant&logoColor=white height=22px></a>
   <a href=https://x.com/TencentHunyuan target="_blank"><img src=https://img.shields.io/badge/Hunyuan-black.svg?logo=x height=22px></a>
 </div>
