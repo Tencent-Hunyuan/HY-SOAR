@@ -14,9 +14,6 @@
 <p align="center">
   <img src="assets/soar.png" alt="HY-SOAR Teaser"/>
 </p>
-<p align="center">
-  <img src="assets/soar1.png" alt="HY-SOAR Teaser"/>
-</p>
 
 ## 🔥 News
 
@@ -49,6 +46,9 @@ Instead of waiting for a terminal reward after a full rollout, SOAR teaches the 
 3. Supervises the denoiser with the analytical correction target $v_{\mathrm{corr}} = (z_{\sigma_{t'}} - z_0) / \sigma_{t'}$
 
 This gives SOAR an on-policy, dense, and reward-free training signal. The base objective subsumes standard SFT, while the auxiliary correction loss trains on nearby model-induced states, making SOAR a stronger first post-training stage that remains compatible with subsequent reward-based alignment.
+<p align="center">
+  <img src="assets/soar1.png" alt="HY-SOAR Teaser"/>
+</p>
 
 ## ✨ Key Features
 
