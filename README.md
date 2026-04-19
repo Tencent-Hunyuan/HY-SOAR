@@ -47,7 +47,7 @@ Instead of waiting for a terminal reward after a full rollout, SOAR teaches the 
 
 This gives SOAR an on-policy, dense, and reward-free training signal. The base objective subsumes standard SFT, while the auxiliary correction loss trains on nearby model-induced states, making SOAR a stronger first post-training stage that remains compatible with subsequent reward-based alignment.
 <p align="center">
-  <img src="assets/soar1.png" alt="HY-SOAR Teaser"/>
+  <img src="assets/soar1.png" idth="95%">
 </p>
 
 ## ✨ Key Features
