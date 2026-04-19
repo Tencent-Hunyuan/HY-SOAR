@@ -11,6 +11,13 @@
   <a href=https://x.com/TencentHunyuan target="_blank"><img src=https://img.shields.io/badge/Hunyuan-black.svg?logo=x height=22px></a>
 </div>
 
+<p align="center">
+  <img src="assets/soar.png" alt="HY-SOAR Teaser"/>
+</p>
+<p align="center">
+  <img src="assets/soar1.png" alt="HY-SOAR Teaser"/>
+</p>
+
 ## 🔥 News
 
 - **April 2026**: 🎉 HY-SOAR open source - Training and evaluation code publicly available.
