@@ -15,7 +15,7 @@
   <img src="assets/soar1.png" width="60%">
 </p>
 
-**Beyond SFT and RL: Self-Correction during Generation without Reward Models, Preference Labels, or Negative Samples.（不依赖奖励模型、不用偏好标注、不靠负样本、生成中自我纠偏，超越 SFT 和 RL）**
+**Beyond SFT and RL: Self-Correction during Generation without Reward Models, Preference Labels, or Negative Samples.**
 
 ## 🔥 News
 
